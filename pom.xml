@@ -44,6 +44,11 @@
             <artifactId>quarkus-smallrye-openapi</artifactId>
         </dependency>
 
+        <dependency>
+            <groupId>io.quarkus</groupId>
+            <artifactId>quarkus-jdbc-h2</artifactId>
+        </dependency>
+
         <!-- Input validation -->
         <dependency>
             <groupId>io.quarkus</groupId>
